@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "cc.h": "c",
+        "bsp_beep.h": "c",
+        "bsp_clk.h": "c",
+        "bsp_key.h": "c"
+    }
+}

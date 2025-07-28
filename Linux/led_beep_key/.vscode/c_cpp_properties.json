@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/imx6ul",
+                "${workspaceFolder}/bsp/beep",
+                "${workspaceFolder}/bsp/clk",
+                "${workspaceFolder}/bsp/key",
+                "${workspaceFolder}/bsp/led",
+                "${workspaceFolder}/bsp/delay",
+                "${workspaceFolder}/bsp/gpio",
+                "${workspaceFolder}/project"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
